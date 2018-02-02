@@ -48,9 +48,9 @@ Cookie	JSESSIONID=14E3D608CF07BA70F289D01E393C7E50; route=c5c62a339e7744272a5464
     '''
 
     text_fiddler = '''
-r	1517200272825
+r 1517200272825
 seq	0
-skey	@crypt_594129be_358b697f10a2921d1fba9cf37afaebaa
+skey @crypt_594129be_358b697f10a2921d1fba9cf37afaebaa
     '''
 
     print_dict_from_copy_headers(text_fiddler)
